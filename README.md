@@ -1,16 +1,15 @@
-### Hi there 👋
 
-<!--
-**Genie-da/Genie-da** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi there 👋, I'm Valova Evgeniya! 
 
-Here are some ideas to get you started:
+I’m currently learning at the "School of Data Analysis" of Yandex Practicum in the direction of "Data analyst".
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### About me
+I worked as an accountant for 6 years, but I always gravitated towards analysis and statistics, so I decided to change my field of activity. I strive to study modern data research and analysis tools with the help of books, articles and practical tasks.
+
+### Technology stack:
+- I use the Python programming language.
+- I use Pandas, Numpy, and Scipy to work with data.
+- For visualization I use Matplotlib, Seaborn, Plotly.
+- I can write SQL queries and understand the principles of relational databases.
+- I've mastered cohort analysis and unit economics.
+- I understand the principles of A/B testing.
