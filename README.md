@@ -13,3 +13,4 @@ I worked as an accountant for 6 years, but I always gravitated towards analysis 
 - I can write SQL queries and understand the principles of relational databases.
 - I've mastered cohort analysis and unit economics.
 - I understand the principles of A/B testing.
+- I have experience creating dashboards in Tableau.
